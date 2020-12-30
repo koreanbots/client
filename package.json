@@ -11,7 +11,7 @@
     "@snowpack/app-scripts-react": "^1.12.6",
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
-    "query-string": "^6.12.1",
+    "query-string": "^6.13.8",
     "react": "^16.8.6",
     "react-adsense": "^0.1.0",
     "react-clipboard.js": "^2.0.16",
